@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas</h1>
-<h3 align="center">Computer Science student at https://surabaya.telkomuniversity.ac.id/ </h3>
+<h3 align="center">Software Engineering student at https://surabaya.telkomuniversity.ac.id/ </h3>
 
 - 🌱 I’m currently learning Everything
 
