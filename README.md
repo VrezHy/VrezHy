@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimas</h1>
-<h3 align="center">Software Engineering student at <a href="https://surabaya.telkomuniversity.ac.id/" target="_blank"> <img src="https://bie-sby.telkomuniversity.ac.id/wp-content/uploads/2023/12/logo-telkom-university-surabaya-color.png" alt="TelkomUniversity" width="100" height="50"/> </a> </h3>
+<h3 align="center">Software Engineering student at <a href="https://surabaya.telkomuniversity.ac.id/" target="_blank"> <img src="https://telkomuniversity.ac.id/wp-content/uploads/2024/03/Logo-Vertikal-Telkom-University.png" alt="TelkomUniversity" width="100" height="50"/> </a> </h3>
 
 - 🌱 I’m currently learning Everything
 
